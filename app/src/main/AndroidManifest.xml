@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    package="com.example.myapp">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcherbiceps"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcherbiceps"
+        android:supportsRtl="true"
+        android:theme="@style/Theme.MyApp">
+        <activity
+            android:name=".StepCounter"
+            android:exported="false" />
+        <activity
+            android:name=".RegisterActivity"
+            android:exported="false" />
+        <activity
+            android:name=".NotificationHelper"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".AlertReceiver"
+            tools:ignore="Instantiatable" />
+        <activity
+            android:name=".TimePickerFragment"
+            tools:ignore="Instantiatable" />
+        <activity android:name=".TimePicker" />
+        <activity android:name=".CaloriesBurnt" />
+        <activity android:name=".yoganormal" />
+        <activity android:name=".Kidsyoga" />
+        <activity android:name=".Shoulder" />
+        <activity android:name=".Legs" />
+        <activity android:name=".Chest" />
+        <activity android:name=".Arm" />
+        <activity android:name=".Abs" />
+        <activity android:name=".Meditation" />
+        <activity android:name=".Yoga" />
+        <activity android:name=".Workout" />
+        <activity android:name=".WeeklyGoals" />
+        <activity android:name=".Login" />
+        <activity android:name=".BMICalculator" />
+        <activity android:name=".Home" />
+        <activity
+            android:name=".MainActivity"
+            android:exported="true">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <receiver android:name=".AlertReceiver" />
+    </application>
+
+</manifest>

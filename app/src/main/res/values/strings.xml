@@ -1,0 +1,580 @@
+<resources>
+    <string name="app_name">SELFITZZ</string>
+    <string name="start">Start</string>
+    <string name="bc">BMI CALCULATOR</string>
+    <string name="calculator">Calculator</string>
+    <string name="weight">WEIGHT (KG)</string>
+    <string name="height">HEIGHT (CM)</string>
+    <string name="calculate">Calculate</string>
+    <string name="kgs">IN KGs</string>
+    <string name="cms">IN CMs</string>
+    <string name="weight_kg">WEIGHT (KG)</string>
+    <string name="result">YOUR RESULT</string>
+    <string name="set">SET</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in or register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="done">DONE</string>
+    <string name="meditate">MEDITATE</string>
+    <string name="time">TIME</string>
+    <string name="settime">Set Time</string>
+    <string name="cancelalarm">Cancel Alarm</string>
+
+    <!-- Register part-->
+    <string name="register">REGISTER</string>
+    <string name="email">Email</string>
+    <string name="pwd">Password</string>
+    <string name="cpwd">Conform Password</string>
+    <string name="aha">Already have account?</string>
+    <string name="enteremail">Enter Your Email</string>
+    <string name="enterpassword">Enter Your Password</string>
+    <string name="conformpassword">Conform Your Password</string>
+    <string name="cna">Create new account?</string>
+
+
+    <!-- Login part-->
+    <string name="login">LOGIN</string>
+    <string name="name">NAME</string>
+    <string name="age">AGE</string>
+    <string name="gender">GENDER</string>
+    <string name="entername">Enter Your Name</string>
+    <string name="enterage">Enter Your Age</string>
+    <string name="entergender">Enter Your Gender</string>
+
+    <!-- Calorie part-->
+    <string name="calorie">CALORIES BURNT:</string>
+    <string name="cong">CONGRATULATIONS!!!</string>
+    <string name="cal">250kcal</string>
+
+    <!-- Weekly goals part-->
+    <string name="wg1">Set your weekly goal</string>
+    <string name="wg2">We recommend training at least 3 days weekly for a better result</string>
+    <string name="wtd">Weekly training days</string>
+    <string name="fdw">First day of the week</string>
+    <string name="save">Save</string>
+
+
+    <!--Home part -->
+    <string name="BMI">BMI</string>
+    <string name="weeklygoals">WEEKLY GOALS</string>
+    <string name="workout">WORKOUT</string>
+    <string name="yoga">YOGA</string>
+    <string name="meditation">MEDITATION</string>
+    <string name="stepcounter">STEP COUNTER</string>
+
+    <!-- Step counter part-->
+    <string name="tsc">TOTAL STEPS WALKED</string>
+
+    <!-- yoga part-->
+    <string name="kidsyoga">KIDS YOGA</string>
+
+    <!-- Workout part -->
+    <string name="arm">ARM</string>
+    <string name="chest">CHEST</string>
+    <string name="legs">LEGS</string>
+    <string name="abs">ABS</string>
+    <string name="snb">SHOULDER AND BACK</string>
+
+    <!-- TIMINGS part-->
+    <string name="sixteenseconds">00:16</string>
+    <string name="twentyseconds">00:20</string>
+    <string name="thirtyseconds">00:30</string>
+    <string name="six">x6</string>
+    <string name="eight">x8</string>
+    <string name="ten">x10</string>
+    <string name="twelve">x12</string>
+    <string name="fourteen">x14</string>
+    <string name="sixteen">x16</string>
+    <string name="twenty">x20</string>
+    <string name="thirty">x30</string>
+    <string name="thirtytwo">x32</string>
+
+    <!-- ABS part-->
+    <string name="jumpingjacks">JUMPING JACKS</string>
+    <string name="jjexp">Start with your feet together and your arms by your sides,then jump up with your feet apart and your hands overhead.
+        Return to the start position then do the next rep. This exercise provides a full-body workout and works all your large muscle groups.</string>
+
+    <string name="abdominalcrunches">ABDOMINAL CRUNCHES</string>
+    <string name="abexp">Lie on your back with tour knees bent and your arms stretched forward. Then lift your upper off the floor.
+        Hold for a few seconds and slowly return. It primarily works the rectus abdominis muscle and the obliques.</string>
+
+    <string name="russiantwist">RUSSIAN TWIST</string>
+    <string name="rsexp">Sit on the floor with your knees bent, feet lifted a little bit and back tilted backwards.
+        Then hold your hands together and twist from side to side</string>
+
+    <string name="mountainclimbers">MOUNTAIN CLIMBERS</string>
+    <string name="mcexp">Start in the push-up position. Bend your right knee towards your chest and keep your left leg straight,
+        then quickly switch from one leg to the other. This exercise strengthens multiple muscle groups. </string>
+
+    <string name="heeltouch">HEEL TOUCH</string>
+    <string name="htexp">Lie on the ground with your legs bent and your arms by your sides. Slightly lift your upper body off the floor and make your hands
+        alternately reach your heels</string>
+
+    <string name="legraises">LEG RAISES</string>
+    <string name="lrexp">Lie down on your back, and put your hands beneath your hips for support. Then lift your legs up until they form a
+        right angle with the floor. slowly bring your legs back down and repeat the exercise.</string>
+
+    <string name="plank">PLANK</string>
+    <string name="plankexp">Lie on the floor with your toes and the forearms on the ground. Keep your body straight and hold this position as long as you can.
+        This exercise strengthens the abdomen, back and shoulders.</string>
+
+    <string name="cobrastretch">COBRA STRETCH</string>
+    <string name="csexp">Lie down on your stomach and bend your elbows with your hands beneath your shoulders. Then push your chest up off the ground as far as
+        possible. Hold this position for seconds.</string>
+
+    <string name="spinelumbarleft">SPINE LUMBAR TWIST STRETCH LEFT</string>
+    <string name="sllexp">Lie on your back with your legs extended. Lift your left leg up and use your right hand to pull your left knee to the right, but keep
+        your other arm extended to the side on the floor. Hold this position for few seconds.</string>
+
+    <string name="spinelumbarright">SPINE LUMBAR TWIST STRETCH RIGHT</string>
+    <string name="slrexp">Lie on your back with your legs extended. Lift your right leg up and use your left hand to pull your right knee to the left, but keep
+        your other arm extended to the side on the floor. Hold this position for few seconds.</string>
+
+    <!-- CHEST part-->
+    <string name="inclinepushups">INCLINE PUSH-UPS</string>
+    <string name="ipuexp">Start in the regular push-up position but with your hands elevated on a chair or bench. Then push your body up down using
+        your arm strength. Remember to keep your body straight.</string>
+
+    <string name="kneepushups">KNEE PUSH-UPS</string>
+    <string name="kpuexp">Start in the regular push-up position, then let your knees touch the flor and raise your feet up off the floor. Next push your
+            body up and down.</string>
+
+    <string name="widearmpushups">WIDE ARM PUSH-UPS</string>
+    <string name="wpuexp">Start in the regular push-up position but with your hands spread wider than your shoulders. Then push your body up and down. Remember
+        to keep your body straight.</string>
+
+    <string name="pushups">PUSH-UPS</string>
+    <string name="puexp">Lay prone on the ground with arms supporting your body. Keep your body straight while raising and lowering your body with your arms.
+        This exercise works the chest, shoulders, triceps, back and legs.</string>
+
+    <string name="boxpushups">BOX PUSH-UPS</string>
+    <string name="bpuexp">Start on all fours with your knees under your butt and your hands directly under your shoulders. Bend your elbows and do a push-up. Return
+         to the start position and repeat.</string>
+
+    <string name="hindupushups">HINDU PUSH-UPS</string>
+    <string name="hpuexp">Start with your hands and feet touching the floor, body bent and butt up in an upside down V shape. Then bend your elbows to bring your
+        body towards the floor. When your body is close to the floor, raise your upper body as far as possible. Then return to the original position and repeat.</string>
+
+    <string name="cheststretch">CHEST STRETCH</string>
+    <string name="chsexp">Find a doorway, take a lunge position in the doorway with your arms on the doorframe and your shoulders and your elbows a little lower than your
+        shoulders, then slowly bring your chest forward. Hold this position for 30-40 seconds. Then slowly come out pf it, bring your arms down and do a couple
+        of shoulder rolls.</string>
+
+    <!-- ARM part -->
+    <string name="armraises">ARM RAISES</string>
+    <string name="arexp">Stand on the floor with your arms extended straight forward at shoulder height. Raise your arms above your head. Return to the start
+        position and repeat.</string>
+
+    <string name="sidearmraises">SIDE ARM RAISES</string>
+    <string name="sarexp">Stand with your feet shoulder width apart. Raise your arms to the sides at shoulder height, then put them down. Repeat the exercise. Keep
+        your arms straight during the exercise.</string>
+
+    <string name="tricepsdips">TRICEPS DIPS</string>
+    <string name="tdexp">For the start position, sit on the chair. Then move your hip off the chair with your hands holding the edge of the chair. Slowly bend and
+        stretch your arms to make your body go up and down. This is a great exercise for the triceps.</string>
+
+    <string name="armcircleclockwise">ARM CIRCLE CLOCKWISE</string>
+    <string name="accexp">Stand on the floor with your arms extended straight out to the sides at shoulder height. Move your arms clockwise in circles fast. Try
+        to do it as fast as you can. It is a great exercise for the deltoid muscle.</string>
+
+    <string name="armcirclecounterclockwise">ARM CIRCLE COUNTERCLOCKWISE</string>
+    <string name="acccexp">Stand on the floor with your arms extended straight out to the sides at shoulder height. Move your arms counterclockwise in circles fast. Try
+        to do it as fast as you can. It is a great exercise for the deltoid muscle.</string>
+
+    <string name="diamondpushups">DIAMOND PUSH-UPS</string>
+    <string name="dpuexp">Start ih=n the push-up position. Make a diamond shape with your forefingers and thumbs together under your chest. Then push your body up
+        and down. Remember to keep your body straight. </string>
+
+    <string name="chestpresspulse">CHEST PRESS PULSE</string>
+    <string name="cppexp">Hold your forearms together at shoulder height and bend your elbows with your hands together to make an L shape. Then lift your forearms up and down.</string>
+
+    <string name="legbarbellcurlleft">LEG BARBELL CURL LEFT</string>
+    <string name="lblexp">Stand against a wall. Lift your right leg up, lean forward and grab underneath your right ankle with your left hand. Bring the ankle
+        up towards the shoulder as much as you can, then lower and repeat the exercise.</string>
+
+
+    <string name="legbarbelcurlright">LEG BARBELL CURL RIGHT</string>
+    <string name="lbrexp">Stand against a wall. Lift your left leg up, lean forward and grab underneath your left ankle with your right hand. Bring the ankle
+        up towards the shoulder as much as you can, then lower and repeat the exercise.</string>
+
+    <string name="diagonalplank">DIAGONAL PLANK</string>
+    <string name="dpexp">Start in the straight arm plank position. Lift your right arm and left leg until they are parallel with the ground. Return to the
+        start position and repeat with the other side.</string>
+
+    <string name="punches">PUNCHES</string>
+    <string name="pexp">Stand with one of your legs forward and your knees bent slightly. Bend your elbows and clench your fists in front of your face. Extend
+        one arm forward with the palm facing the floor. Take the arm back and repeat with the other arm.</string>
+
+    <string name="inchworms">INCHWORMS</string>
+    <string name="iwexp">Start with your feet shoulder width apart. Bend your body and walk your hands in front of you as far as you can, then walk your hands back.
+        Repeat the exercise.</string>
+
+    <string name="wallpushups">WALL PUSH-UPS</string>
+    <string name="wapuexp">Stand in front of a wall one big step away from it. Then put your hands out straight towards the wall and lean against it. Lift your heels. Slowly bend
+        your elbows and press your upper body towards the wall. Push back and repeat the exercise. Remember to keep your body straight. </string>
+
+    <string name="tricepsstretchleft">TRICEPS STRETCH LEFT</string>
+    <string name="tslexp">Put your left hand on your back, use your right hand to grab your left elbow and gently pull it. Hold this position for a few seconds.</string>
+
+
+    <string name="tricepsstretchright">TRICEPS STRETCH RIGHT</string>
+    <string name="tsrexp">Put your right hand on your back, use your left hand to grab your right elbow and gently pull it. Hold this position for a few seconds.</string>
+
+    <string name="standingbicepsstretchleft">STANDING BICEPS STRETCH LEFT</string>
+    <string name="sbslexp">Stand with your left arm close to a wall. Extend your left arm and put your left hand on the wall, then gently turn your body to the right.</string>
+
+    <string name="standingbicepsstretchright">STANDING BICEPS STRETCH RIGHT</string>
+    <string name="sbsrexp">Stand with your right arm close to a wall. Extend your right arm and put your right hand on the wall, then gently turn your body to the left.</string>
+
+    <!-- LEG part-->
+    <string name="sidehop">SIDE HOP</string>
+    <string name="shexp">Stand on the floor, put your hands in the front of you and hop from side to side.</string>
+
+    <string name="squats">SQUATS</string>
+    <string name="sexp">Stand with your feet shoulder width apart and your arms stretched forward, then lower your body until your thighs are parallel with the floor. Your knees should be extended
+        in the same direction as your toes. Return to the start position and do the next rep.</string>
+
+    <string name="sidelyinglegliftleft">SIE-LYING LEG LIFT LEFT</string>
+    <string name="slllexp">Lie down on your side with your head rested on your right arm.Lift your upper leg up and return to the start position. Make sure your left leg goes straight up and down during
+        the exercise. It is a great exercise for the gluteus.</string>
+
+    <string name="sidelyinglegliftright">SIDE-LYING LEG LIFT RIGHT</string>
+    <string name="sllrexp">Lie down on your side with your head rested on your left arm.Lift your upper leg up and return to the start position. Make sure your right leg goes straight up and down during
+        the exercise. It is a great exercise for the gluteus.</string>
+
+    <string name="backwardlunge">BACKWARD LUNGE</string>
+    <string name="blexp">Stand with your feet shoulder width apart and your hands on your hips. Step a big step backward with your right leg and lower your body until your  left thigh is parallel to
+        the floor</string>
+
+    <string name="donkeykicksleft">DONKEY KICKS LEFT</string>
+    <string name="dklexp">Start on all fours with your knees under your butt and your hands under your shoulders. Then lift your left leg and squeeze your butt as much as you can. Go back to the start
+        position and repeat the exercise.</string>
+
+
+    <string name="donkeykicksright">DONKEY KICKS RIGHT</string>
+    <string name="dkrexp">Start on all fours with your knees under your butt and your hands under your shoulders. Then lift your right leg and squeeze your butt as much as you can. Go back to the start
+        position and repeat the exercise.</string>
+
+    <string name="leftquadstretch">LEFT QUAD STRETCH WITH WALL</string>
+    <string name="lqsexp">Stand with your right hand on the wall. Bend your left leg and grasp your ankle or toes to bring your left calf close to your left thigh. Hold this position.</string>
+
+    <string name="rightquadstretch">RIGHT QUAD STRETCH WITH WALL</string>
+    <string name="Rqsexp">Stand with your left hand on the wall. Bend your right leg and grasp your ankle or toes to bring your right calf close to your right thigh. Hold this position.</string>
+
+    <string name="kneechestleft">KNEE TO CHEST STRETCH LEFT</string>
+    <string name="kcslexp">Lie on the floor with your legs extended. Lift your left knee and grab it with both hands. Pull your left knee towards your chest as much as you can while keeping your right
+        leg straight on the ground. Hold this position for a few seconds.</string>
+
+    <string name="kneechestright">KNEE TO CHEST STRETCH RIGHT</string>
+    <string name="kcsrexp">Lie on the floor with your legs extended. Lift your right knee and grab it with both hands. Pull your right knee towards your chest as much as you can while keeping your left
+        leg straight on the ground. Hold this position for a few seconds.</string>
+
+    <string name="wallcalfraises">WALL CALF RAISES</string>
+    <string name="wcrexp">Stand straight with your hands on the wall and feet shoulder width apart. Lift your heels and stand on your toes. Then drop your heels down. Repeat the exercise.</string>
+
+    <string name="sumosquat">SUMO SQUAT CALF RAISES WITH WALL</string>
+    <string name="sscexp">Stand with your hands on the wall and your feet a little wider than shoulder width apart. Lower your body until your thighs are parallel to the floor. Lift your heels up nd down.</string>
+
+    <string name="calfleft">CALF STRETCH LEFT</string>
+    <string name="cslexp">Stand one big step away in front of a wall. Step forward with your right foot and push the wall with your hands. Please make sure your left leg is fully extended and you can
+        feel your left calf stretching. Hold this position for a few seconds.</string>
+
+    <string name="calfright">CALF STRETCH RIGHT</string>
+    <string name="csrexp">Stand one big step away in front of a wall. Step forward with your left foot and push the wall with your hands. Please make sure your right leg is fully extended and you can
+        feel your right calf stretching. Hold this position for a few seconds.</string>
+
+    <!-- SHOULDER part-->
+    <string name="rhomboidpulls">RHOMBOID PULLS</string>
+    <string name="rpexp">Stand with your feet shoulder width apart. Raise your arms parallel to the ground and bend your elbows. Pull your elbows back and squeeze your shoulder blades. Repeat this exercise.</string>
+
+    <string name="sidelyingfloorleft">SIDE-LYING FLOOR STRETCH LEFT</string>
+    <string name="slflexp">Lie your right side with your right knee slightly bent in front of you and your left leg stretched behind the right leg. Straighten your left arm over your head and gently
+        pull on your left wrist to stretch the left side of your body. Hold this position for few seconds.</string>
+
+    <string name="sidelyingfloorright">SIDE-LYING FLOOR STRETCH RIGHT</string>
+    <string name="slfrexp">Lie your left side with your left knee slightly bent in front of you and your right leg stretched behind the left leg. Straighten your right arm over your head and gently
+        pull on your right wrist to stretch the right side of your body. Hold this position for few seconds.</string>
+
+    <string name="armscissors">ARM SCISSORS</string>
+    <string name="asexp">Stand upright with your feet shoulder width apart. Stretch your arms in front of you at shoulder height with one arm overlap the other in the shape of the letter "X", and
+        then spread them apart. Switch arms and repeat the exercise.</string>
+
+    <string name="catcowpose">CAT COW POSE</string>
+    <string name="ccpexp">Start on all fours with your knees under your butt and your hands directly under your shoulders. Then take a breath and make your belly fall down, shoulders roll back and
+        head come up towards the ceiling. As you exhale, curve your back upward and let your head come down. Repeat the exercise.</string>
+
+    <string name="pronetricepspushups">PRONE TRICEPS PUSH UPS</string>
+    <string name="ptpexp">Lie on your stomach with your hands underneath your shoulders and your elbows bent. Slightly raise your chest up, and then go back to the start position. Repeat this exercise.</string>
+
+    <string name="reclinedrhomboidsqueezes">RECLINED RHOMBOID SQUEEZES</string>
+    <string name="rrsexp">Sit with your knees bent. Slightly lean your upper body back. Stretch your arms in front of you, then pull your elbows back to make your elbows back to make your elbows back
+        to make your elbows at a 90 degree angle and squeeze your shoulder blades. Repeat this exercise.</string>
+
+    <string name="childpose">CHILDS POSE</string>
+    <string name="cpexp">Start with your knees and hands on the floor. Put your hands a little forward, widen your knees and put your toes together. Take a breath, then exhale and sit back. Try
+        to make your butt touch your heels. Relax your elbows, make your forehead touch the floor and try to lower your chest close to the floor. Hold this position.</string>
+
+
+    <!-- KIDS YOGA part-->
+    <string name="bridgepose">Setu Bandha Sarvangasana (Bridge Pose)</string>
+    <string name="bdpexp">Lie on the back. Bend the knees a little and keep the feet flat on the floor, hip-width apart. The knees and ankles must be in a straight line.
+        Place the arms in a resting position beside the body, with the palms downwards. Take a deep breath and lift the lower, middle, and upper back off the floor. Balance the body in a way that the arms, shoulders, and feet support the body weight.
+        Keep the buttocks tight. Have the fingers interlaced, and hands pushed to the ground to help lift the torso higher. Let your child hold this posture for as long as they are comfortable and breathe slowly while they are in the pose.
+        Exhale and release.</string>
+
+    <string name="treepose">Vrksasana (Tree Pose)</string>
+    <string name="tpexp">Begin the posture with the mountain pose, wherein the legs are straight, hands at the sides, back straight, and thigh muscles firm.
+Lift the right foot with the knee out.
+Place the right foot on the left inner thigh in a position where it feels comfortable.
+Press the hands together above the head.
+Gaze at a point about five feet away.
+Hold the position for 30 seconds to a minute.
+Return the hands to the chest and then lower the right leg.
+Repeat it on the left leg.</string>
+
+    <string name="cobrapose">Bhujangasana (Cobra Pose)</string>
+    <string name="cbpexp">Lie face down with the tips of the feet flat on the floor and palms on either side of the body.
+Pull the shoulders slightly back towards the spine.
+Engage the abdomen throughout the exercise as it keeps the lower back protected.
+Lift the body into a cobra pose while keeping the chin up. Use the hands for support, but without putting unnecessary pressure.
+Hold the posture for 15 to 30 seconds, before gently releasing the body to the floor. This is a good, morning yoga pose for kids to practice daily.</string>
+
+    <string name="catpose">Marjaryasana (Cat Pose)</string>
+    <string name="catpexp">Take a tabletop position using the hands and knees.
+The knees should be directly below their hips, and toes curled.
+The wrists, elbows, and shoulders should be straight and perpendicular to the floor.
+Center the head in a neutral position with eyes looking at the floor.
+With an exhalation, arch the spine up towards the ceiling.
+Release the head towards the floor without forcing the chin towards the chest.
+Come back to the initial tabletop position while inhaling slowly.</string>
+
+    <string name="bowpose">Dhanurasana (Bow Pose)</string>
+    <string name="bpexp">Lie flat on the stomach, keeping the arms stretched along the sides of the body and head resting gently on the mat.
+Inhale and bend the knees bringing the feet towards the hips.
+Grasp the ankles using both the hands.
+Lift the shoulders, torso, legs, and hips off the floor while gazing straight ahead.
+Hold the posture for four to five breaths, then lower the knees and release the feet.
+Rest on the stomach.</string>
+
+    <string name="frogpose">Mandukasana (Frog Pose)</string>
+    <string name="fpexp">Start by going on the floor on the hands and knees.
+Position the knees a few inches apart and place the feet right behind the knees.
+Place the palms right under the shoulders with the fingers facing forward.
+Look downwards and focus at a point between your hands.
+Now, push the tailbone towards the back. This will stretch the spine. This position is known as the table position.
+Slowly move the knees outwards to the sides. Then align the ankles and feet with the knees in a straight line.
+Start to slide downwards while keeping the palms flat against the floor.
+Exhale and keep pushing the hips backwards until a stretch is felt.
+Now, hold this position for three to five breaths.
+Come back to the table position again.</string>
+
+    <string name="easypose">Sukhasana (Easy Pose)</string>
+    <string name="epexp">Sit upright with legs crossed.
+Rest the hands on the knees with the palms facing up.
+Evenly balance the weight across the sit bones.
+Keep the head, neck, and spine aligned all along.
+Elongate the spine but without stiffing the neck.
+The feet and thighs should be relaxed.
+Retain this posture for a minute.
+Release and change the cross-legged position.</string>
+
+    <string name="butterflypose">Baddha Konasana (Butterfly Pose)</string>
+    <string name="btpexp">Sit with the spine upright and legs spread out straight.
+Fold the legs so that the feet are touching each other. Hold them with the hands.
+While exhaling, gently move the thighs and knees in a downward motion.
+Then start flapping the legs up and down, like the wings of a butterfly.
+The flapping should be slow initially and then pick up to speed. Breathing should be at a normal pace.
+Slow down gradually and then stop.
+Gently release the posture while exhaling.</string>
+
+    <string name="corpsepose">Savasana (Corpse Pose)</string>
+    <string name="copexp">Lie on the back with legs straight and arms at the sides. The arms should be at a minimum distance of six inches away from the body.
+Keep the eyes closed, and palms faced upwards.
+Keep the feet drop open.
+Breathe normally while resting the body’s weight on the ground.
+Slowly exhale while relaxing and de-stressing all the body parts.
+This is the best relaxing yoga pose for kids.</string>
+
+    <string name="chairpose">Utkatasana (Chair Pose)</string>
+    <string name="chpexp">Inhale and raise the arms above the head.
+Bend the knees forward while exhaling; the thighs should be parallel to the floor.
+While performing it, the knees will project slightly ahead.
+Lift your arms and stretch them straight.
+Keep the tailbone down and the lower back long.
+Keep the breath steady and easy throughout.
+Keep the gaze forward.
+Retain this posture for as long as comfortable, but not more than a minute.</string>
+
+    <string name="heropose">Virasana (Hero Pose)</string>
+    <string name="hpexp">Sit with the knees together and the feet hip-width apart.
+Sit on the heels with the heels touching the hips.
+The hands should rest on the knees with the palms facing up.
+Straighten the spine and drop the shoulders down and a little towards the back.
+Relax the core while taking deep breaths.
+Retain the posture for as long as it is comfortable.</string>
+
+    <string name="boatpose">Naukasana (Boat Pose)</string>
+    <string name="bopexp">Lie down flat with feet aligned together and arms on the sides.
+Keep the arms and fingers outstretched in the direction of the toes.
+Inhale and while exhaling, lift the chest and feet off the ground, to form a ‘V’ shape.
+This will build tension and stretch in the core.
+The weight of the body will solely rest on the hips.
+The eyes, hands, and toes should align straight.
+Hold the breath and retain the posture for a few seconds.
+Exhale slowly while bringing the body down to the neutral position. And relax.</string>
+
+    <string name="mountainpose">Tadasana (Mounatin Pose)</string>
+    <string name="mpexp">Stand straight and tall.
+Spread the legs a few inches apart and spread the toes.
+Keep the arms alongside the body.
+The shoulders must be relaxed and not stiff.
+Raise the arms above your head.
+Hold the posture and breathe slowly.
+Retain as long as comfortable.</string>
+
+    <string name="happybabypose">Ananda Balasana(Happy Baby Pose)</string>
+    <string name="hbpexp">Lie on the back with the knees drawn in towards the chest.
+Hold the feet with hands. Ensure that the arms are in front of the torso.
+Draw the shoulders to the back.
+Slightly stretch the arms and feet.
+Draw the knees wide apart, as much as comfortable.
+Elongate the lower back down to the ground while touching the tip of the tailbone.
+Retain the position for a minute or less, and then release.</string>
+
+    <string name="lionpose">Simhasana (Lion Pose)</string>
+    <string name="lpexp">Sit with the hips on the heels.
+Rest the palms on the knees.
+Start inhaling from the nose, and while you’re on it, stick your tongue out.
+Keep the eyes wide open, exhale through the mouth, and make a sound of a roaring lion (Haaa).
+Many yoga schools suggest that you either concentrate looking at the tip of the nose or in the middle of the eyebrows.</string>
+
+
+    <!-- YOGA part-->
+    <string name="shoulderstand">Salamba Sarvangasana (Shoulder stand)</string>
+    <string name="ssexp">
+        Neatly stack two blankets with the folded edges aligned with the short edge of your mat. Lay on the blankets and place the tops of your shoulders 2 inches from the edge of the blankets.
+        Rest your head on the floor, off the blanket. Place your arms at your sides. Bend your knees and bring your feet to the floor, heels near butt.
+        As you inhale, bring your knees in toward your chest. As you exhale, straighten your legs and send them up toward the sky. Place your hands on your lower back to support your posture, fingertips pointed down toward your tail bone.
+        To come out of the pose, bend your knees in toward your chest and slowly lower down onto your back.</string>
+
+    <string name="headstand">Sirsasana (Head Stand)</string>
+    <string name="hsexp">Start on all fours facing the wall. Interlace your fingers with your knuckles facing the wall. Place elbows on the floor shoulder-width apart. Place the crown of your head on the floor into the basket created by your interlaced fingers.
+        Tuck your toes under, lift knees off the floor, and reach your hips up and back. Press down into your forearms and lift up through shoulders.
+        Walk your feet in closer as you broaden across the chest. Most of the weight should be concentrated in your forearms.
+        Draw your knees into the chest with control, place your feet on the wall, and slide heels up the wall simultaneously. Reach up through your legs.
+        Come out of the pose with control, maintaining the lift of your shoulders.</string>
+
+    <string name="wallassistedforearmstand">Pincha Mayurasana (Wall Assisted Fore-arm Stand)</string>
+    <string name="wafsexp">Start on all fours, with your head facing the direction of the wall. Place your elbows on the floor and come down to your forearms.
+        Bring them parallel to one other, shoulder-width apart. Tuck your toes, lift knees, and reach hips up and back into Dolphin Pose.
+        Broaden across the chest and gaze at the floor between your forearms. Step one foot in a few inches. Lift the other leg up and straight back.
+        Bend the knee of your grounded leg. Hop off that foot and send both feet up to the wall. Squeeze your inner thighs together and reach heels up toward the ceiling.
+        To come out of the pose, bend your knees and use your core to bring your feet down to the ground. Take a few moments to relax before returning to your practice.</string>
+
+    <string name="wallassistedheadstand">Adho Mukha Vrksasana (Wall Assisted Head Stand)</string>
+    <string name="wahsexp">Start in Downward-Facing Dog, facing the wall. Place your hands 6 inches from the wall. Bend one knee and step the foot in toward the wall. Lift the other leg into the air.
+        When you’re just getting used to being upside down, you may feel the most comfortable hopping off the bottom foot to kick the lifted leg up toward the wall. Others rely on core strength to bring both the legs up. Either way, bring your feet together against the wall.
+        To come out of the pose, bend your knees and use your core to slowly draw your legs down to the ground. After an inversion, take a few moments to readjust before returning to your practice.</string>
+
+    <string name="wheelpose">Urdhva Dhanurasana(Wheel Pose)</string>
+    <string name="wpexp">Lie faceup with knees bent, feet flat on the floor, like you’re prepping for Bridge Pose. Position your feet parallel to one another, hip-distance apart, with heels under the knees.
+        On an inhale, bring your hands to the floor, framing your ears. Your fingers should be facing your heels.
+        On an exhale, press down into your hands and feet. Lift your hips and chest off the floor. Straighten your arms and lift up through your shoulders.
+        To come out of the pose, bend your arms and slowly lower your upper back down to the floor.</string>
+
+    <string name="crowpose">Bakasana (Crow Pose)</string>
+    <string name="crpexp">Start in Mountain Pose (Tadasana). Come down to a deep squat, with your feet a few inches apart and your heels lifted off the mat. Make your knees wider than your hips.
+        Bring your palms down in front of you between your knees, shoulder-width apart. Hook your shins around your upper arms.
+        Look forward, shift your weight forward onto your hands, and lift your feet off the floor. Pull up through your arms and abs, and round your upper back. If you can, bring your toes to touch beneath your tailbone.</string>
+
+    <string name="revoledtrianglepose">Parivrtta Trikonasana (Revolved Triangle Pose)</string>
+    <string name="rtpexp">From Mountain Pose, step your left foot back and place it flat on the floor, turned out 45 degrees. Line your feet up heel to heel, or wider for more stability and space.
+        Ground down into both feet and lift up through your thighs. Hinge forward at the hips and lengthen spine over your front thigh.
+        Release your left hand to a block placed on the outer edge of your front foot. You can also place the block on the inside of the front foot. Rotate your torso to the right. Stretch your right arm up.</string>
+
+    <string name="sideplank">Vasisthasana (Side Plank)</string>
+    <string name="spexp">Start in Downward-Facing Dog. Turn onto the outer edge of your right foot, making sure that your right foot and right hand are in alignment.
+        Stack your left foot on top of your right. Lengthen through the spine through the crown of your head. Once you’re stable, lift your left hand up toward the sky. Press the floor away from you with the bottom hand.</string>
+
+    <string name="camelpose">Ustrasana (Camel Pose)</string>
+    <string name="camelpexp">Kneel on the ground with your shins hip-width apart. Press the tops of your feet into the mat. Rest hands on your hips, thumbs near your lower back.
+        Take an inhale and press down into your shins. Elongate through the spine. On an exhale, reach your arms back toward your heels. Use the leverage to lift your chest up toward the sky and get a nice shoulder stretch.</string>
+
+    <string name="dolphinpose">Ardha Pincha Mayurasana (Dolphin Pose)</string>
+    <string name="dolpexp">From all fours, come down onto your forearms. Spread your fingers wide and keep elbows shoulder-width apart.
+        On an inhale, tuck your toes and lift your hips up and back like you’re in Downward-Facing Dog. Allow your head to hang above the floor.
+        Ground down into your forearms and lift your upper body away from the floor. Press your heels down toward the mat for a nice hamstring stretch</string>
+
+    <string name="intensesidestretch">Parsvottanasana (Intense Side Stretch)</string>
+    <string name="issexp">Start in Mountain Pose. Step your left foot back and place it flat on the floor at a 45-degree angle. Ground down into both feet and lift up through the thighs.
+        Place your hands on your hips. Rotate your torso forward. Hinge at the hips and lengthen your spine over the front leg. Lift away from the floor and broaden across the chest.</string>
+
+    <string name="warrior3">Virabhadrasana III (Warrior III)</string>
+    <string name="w3exp">From Warrior I, hinge forward at the hips. Rest your abdomen on your front thigh. Step the back foot in and shift your weight into your front foot.
+        On an inhale, lift your back leg off the ground, straighten through the leg, and reach through your back heel. Press your palms together in front of your sternum (prayer hands) and gaze forward.
+        You can also place your arms along the hips, outstretched in front of you like you’re flying, or on the floor underneath your shoulders.</string>
+
+    <string name="Warrior1">Virabhadrasana I (Warrior I)</string>
+    <string name="w1exp">Start in Downward-Facing Dog. Step one foot forward between your hands. Turn your back foot out, approximately 45 degrees, and ground down into your back foot.
+        Line your feet up heel to heel, or slightly wider. Bend the front knee directly over the front ankle while you straighten your back leg. Draw your back heel down toward the floor.
+        On an inhale, lengthen through the spine and lift your arms up. Place your hands on your hips or lift them up in a V toward the ceiling. Rotate your torso toward the front of the room.</string>
+
+    <string name="upwardfacingdog">Urdhva Mukha Svanasana (Upward-Facing Dog)</string>
+    <string name="ufdexp">Lie facedown on the floor. Bend elbows and place hands on the mat in line with lower ribs. Hug your elbows in line with your torso. Tuck your toes and take an inhale.
+        As you exhale, push the floor away like a push-up. Straighten your arms and broaden across the chest, hovering your hips a few inches above the floor at the same time.</string>
+
+    <string name="Plank">Kumbhakasana (Plank)</string>
+    <string name="plaexp">Start in Downward-Facing Dog. Shift forward so your shoulders are stacked over your wrists. Draw your navel in toward your spine and keep your hips from dropping.
+        Reach heels back as you lengthen the crown of your head forward. Ground down into hands, pushing the floor away beneath you. Lengthen through the arms and broaden your chest.</string>
+
+    <string name="seatedforwardfold">Paschimottanasana</string>
+    <string name="sffexp">Sit and straighten your legs out in front of you, grounding your thighs into the floor. Hinge at the hips to elongate your torso over your thighs. Grab hold of the outer edges of your feet.</string>
+
+    <string name="trianglepose">Trikonasana (Triangle Pose)</string>
+    <string name="tripexp">Stand with feet wide, 3–4 feet apart. Shift your right heel out so your toes are pointing slightly inward. Turn your left foot out 90 degrees. Line up your left heel with the arch of your right foot.
+        Keeping both legs straight, ground through your feet. Lift arms into a T at shoulder height. Reach forward with your front arm. When you can’t reach anymore, hinge at the front hip.
+        Bring your front arm down to your shin, a foam block, or the ground. Lift your back arm up toward the sky and spread your fingers. Take your gaze down to the floor or up toward your lifted hand.</string>
+
+    <string name="warrior2">Virabhadrasana II (Warrior II)</string>
+    <string name="w2exp">Stand with feet wide, 3–4 feet apart. Shift your right heel out so your toes are pointing slightly inward. Turn your left foot out 90 degrees. Line up your left heel with the arch of your right foot.
+        Bend your left knee to a 90-degree angle, keeping the knee in line with the second toe to protect the knee joint. Stretch through your straight back leg and ground down into the back foot.
+        On an inhale, bring arms to a T at shoulder height. Draw your shoulder blades down the back. Spread your fingers and keep palms facedown. Gaze over the front fingers. As you exhale, sink deeper into the stretch.</string>
+
+    <string name="downwardfacingdog">Adho Mukha Svanasana (Downward-Facing Dog)</string>
+    <string name="dfgexp">From all fours, walk your hands 6 inches in front of you. Tuck your toes and lift your hips up and back to lengthen your spine. If your hamstrings are tight, keep your knees bent in order to bring your weight back into the legs.
+        Spread your fingers wide, press into your hands, and rotate your arms so that your biceps are facing toward one another. Press your thighs back toward the wall behind you.</string>
+
+    <string name="downdogonachair">Uttana shishosana (Down Dog on a Chair)</string>
+    <string name="ddcexp">Place your hands on the back of a chair with palms shoulder-distance apart. Step your feet back until they align under hips, creating a right angle with your body, spine parallel with the floor.
+        Ground through your feet and lift through thighs. Reach hips away from hands to lengthen the sides of your torso. Firm your outer arms in and lengthen through the crown of your head.</string>
+
+    <string name="wallhandstand">Adho Mukha Vrksasana (Wall Assisted Hand Stand)</string>
+    <string name="whsexp">Start in Downward-Facing Dog, facing the wall. Place your hands 6 inches from the wall. Bend one knee and step the foot in toward the wall. Lift the other leg into the air.
+        When you’re just getting used to being upside down, you may feel the most comfortable hopping off the bottom foot to kick the lifted leg up toward the wall. Others rely on core strength to bring both the legs up. Either way, bring your feet together against the wall.
+        To come out of the pose, bend your knees and use your core to slowly draw your legs down to the ground. After an inversion, take a few moments to readjust before returning to your practice.</string>
+
+    <string-array name="wtd">
+        <item>1 day</item>
+        <item>2 days</item>
+        <item>3 days</item>
+        <item>4 days</item>
+        <item>5 days</item>
+        <item>6 days</item>
+        <item>7 days</item>
+    </string-array>
+
+    <string-array name="fdw">
+        <item>Sunday</item>
+        <item>Monday</item>
+        <item>Tuesday</item>
+        <item>Wednesday</item>
+        <item>Thursday</item>
+        <item>Friday</item>
+        <item>Saturday</item>
+    </string-array>
+
+
+</resources>

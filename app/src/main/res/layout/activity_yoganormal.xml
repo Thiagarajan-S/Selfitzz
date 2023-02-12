@@ -1,0 +1,671 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".yoganormal"
+    android:background="@color/cyan"
+    android:padding="20dp">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <TextView
+            android:id="@+id/tv31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/downdogonachair"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ddcexp"
+            android:layout_below="@id/tv31"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i16"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv32"
+            android:contentDescription="@string/downdogonachair"
+            android:src="@drawable/downdogonchair"/>
+
+        <TextView
+            android:id="@+id/tv33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/downwardfacingdog"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i16"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dfgexp"
+            android:layout_below="@id/tv33"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i17"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv34"
+            android:contentDescription="@string/downwardfacingdog"
+            android:src="@drawable/downwardfacingdog"/>
+
+        <TextView
+            android:id="@+id/tv35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/warrior2"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i17"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv36"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/w2exp"
+            android:layout_below="@id/tv35"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i18"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv36"
+            android:contentDescription="@string/warrior2"
+            android:src="@drawable/warrior2"/>
+
+        <TextView
+            android:id="@+id/tv37"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/trianglepose"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i18"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv38"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/tripexp"
+            android:layout_below="@id/tv37"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i19"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv38"
+            android:contentDescription="@string/trianglepose"
+            android:src="@drawable/trianglepose"/>
+
+        <TextView
+            android:id="@+id/tv39"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/seatedforwardfold"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i19"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv40"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sffexp"
+            android:layout_below="@id/tv39"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i20"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv40"
+            android:contentDescription="@string/seatedforwardfold"
+            android:src="@drawable/seatedforwardfold"/>
+
+        <TextView
+            android:id="@+id/tv41"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Plank"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i20"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv42"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/plaexp"
+            android:layout_below="@id/tv41"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i21"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv42"
+            android:contentDescription="@string/Plank"
+            android:src="@drawable/plankpose"/>
+
+        <TextView
+            android:id="@+id/tv43"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/upwardfacingdog"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i21"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv44"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ufdexp"
+            android:layout_below="@id/tv43"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i22"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv44"
+            android:contentDescription="@string/upwardfacingdog"
+            android:src="@drawable/upwardfacingdog"/>
+
+        <TextView
+            android:id="@+id/tv45"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/Warrior1"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i22"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv46"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/w1exp"
+            android:layout_below="@id/tv45"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i23"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv46"
+            android:contentDescription="@string/Warrior1"
+            android:src="@drawable/warrior1"/>
+
+        <TextView
+            android:id="@+id/tv47"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/warrior3"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i23"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv48"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/w3exp"
+            android:layout_below="@id/tv47"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i24"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv48"
+            android:contentDescription="@string/warrior3"
+            android:src="@drawable/warrior3"/>
+
+        <TextView
+            android:id="@+id/tv49"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/intensesidestretch"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i24"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv50"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/issexp"
+            android:layout_below="@id/tv49"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i25"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv50"
+            android:contentDescription="@string/intensesidestretch"
+            android:src="@drawable/intensesidestretch"/>
+
+        <TextView
+            android:id="@+id/tv51"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dolphinpose"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i25"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv52"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/dolpexp"
+            android:layout_below="@id/tv51"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i26"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv52"
+            android:contentDescription="@string/dolphinpose"
+            android:src="@drawable/dolphinpose"/>
+
+        <TextView
+            android:id="@+id/tv53"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/camelpose"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i26"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv54"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/camelpexp"
+            android:layout_below="@id/tv53"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i27"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv54"
+            android:contentDescription="@string/camelpose"
+            android:src="@drawable/camelpose"/>
+
+        <TextView
+            android:id="@+id/tv55"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/sideplank"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i27"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv56"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/spexp"
+            android:layout_below="@id/tv55"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i28"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv56"
+            android:contentDescription="@string/sideplank"
+            android:src="@drawable/sideplank"/>
+
+        <TextView
+            android:id="@+id/tv57"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/revoledtrianglepose"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i28"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv58"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/rtpexp"
+            android:layout_below="@id/tv57"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i29"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv58"
+            android:contentDescription="@string/revoledtrianglepose"
+            android:src="@drawable/revolvedtrianglepose"/>
+
+        <TextView
+            android:id="@+id/tv59"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crowpose"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i29"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv60"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/crpexp"
+            android:layout_below="@id/tv59"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i30"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv60"
+            android:contentDescription="@string/crowpose"
+            android:src="@drawable/crowpose"/>
+
+        <TextView
+            android:id="@+id/tv61"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wheelpose"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i30"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv62"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wpexp"
+            android:layout_below="@id/tv61"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i31"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv62"
+            android:contentDescription="@string/wheelpose"
+            android:src="@drawable/wheelpose"/>
+
+        <TextView
+            android:id="@+id/tv63"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wallassistedforearmstand"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i31"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv64"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wafsexp"
+            android:layout_below="@id/tv63"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i32"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv64"
+            android:contentDescription="@string/wallassistedforearmstand"
+            android:src="@drawable/wallforearmstand"/>
+
+        <TextView
+            android:id="@+id/tv65"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/headstand"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i32"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv66"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/hsexp"
+            android:layout_below="@id/tv65"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i33"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv66"
+            android:contentDescription="@string/headstand"
+            android:src="@drawable/headstand"/>
+
+        <TextView
+            android:id="@+id/tv67"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/shoulderstand"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i33"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv68"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/ssexp"
+            android:layout_below="@id/tv67"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i34"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv68"
+            android:contentDescription="@string/shoulderstand"
+            android:src="@drawable/shoulderstand"/>
+
+        <TextView
+            android:id="@+id/tv69"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/wallhandstand"
+            android:background="@color/blue"
+            android:textStyle="bold"
+            android:layout_below="@id/i34"
+            android:textColor="#000000"
+            android:textSize="24sp"
+            />
+
+        <TextView
+            android:id="@+id/tv70"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="@string/whsexp"
+            android:layout_below="@id/tv69"
+            android:layout_marginTop="20dp"
+            android:textSize="16sp"
+            android:textColor="#000000"
+            android:textStyle="bold"/>
+
+        <ImageView
+            android:id="@+id/i35"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_below="@id/tv70"
+            android:contentDescription="@string/wallhandstand"
+            android:src="@drawable/wallhandstand"/>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    </RelativeLayout>
+
+</ScrollView>
